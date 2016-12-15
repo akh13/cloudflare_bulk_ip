@@ -7,8 +7,8 @@ The first thing to do is to add ranges of the IPs that you wish to find and repl
 ## Usage
 Place this script where you can reach it easily from the command line. Then run it from the PHP CLI:
 
-`user$ /usr/bin/php cloudflareswitch.php low`
+`user$ /usr/bin/php cloudflare.php low`
 This will swap to the low range of IPs given.
 
-`user$ /usr/bin/php cloudflareswitch.php high`
+`user$ /usr/bin/php cloudflare.php high`
 This will swap to the high range of IPs given.

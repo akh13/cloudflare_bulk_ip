@@ -12,3 +12,7 @@ This will swap to the low range of IPs given.
 
 `user$ /usr/bin/php cloudflare.php high`
 This will swap to the high range of IPs given.
+
+### Sources
+Code based on example here:
+http://www.aetherweb.co.uk/batch-editing-cloudflare-dns-ip-with-cloudflare-api-in-php/
